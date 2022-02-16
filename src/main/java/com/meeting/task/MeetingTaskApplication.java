@@ -1,4 +1,4 @@
-package com.meeting.task.meetingTask;
+package com.meeting.task;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

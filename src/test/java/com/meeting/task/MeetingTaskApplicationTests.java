@@ -1,4 +1,4 @@
-package com.meeting.task.meetingTask;
+package com.meeting.task;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
